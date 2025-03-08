@@ -1,6 +1,8 @@
 {
   "name": "Columns to Rows",
   "id": "883151892317735809",
+  "editorType": ["figma"],
   "api": "1.0.0",
-  "main": "code.js"
+  "main": "code.js",
+  "networkAccess": { "allowedDomains": ["none"] }
 }
